@@ -1,0 +1,14 @@
+chr - 39 39 0 4182508 green_a2
+chr - 40 40 0 2308978 green_a2
+chr - 41 41 0 1684553 green_a2
+chr - 42 42 0 1442992 green_a2
+chr - 43 43 0 1028535 green_a2
+chr - 44 44 0 978432 green_a2
+chr - 45 45 0 780756 green_a2
+chr - 1.1 1.1 0 3148189 red
+chr - 2.1 2.1 0 2554472 red
+chr - 3.1 3.1 0 2336944 red
+chr - 4.1 4.1 0 1318381 red
+chr - 5.1 5.1 0 1007080 red
+chr - 6.1 6.1 0 1004738 red
+chr - 7.1 7.1 0 880293 red
